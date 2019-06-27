@@ -1,3 +1,4 @@
+/* Los calcetines de Ian Malcolm */
 #include <stdio.h>
 
 int main() {

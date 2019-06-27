@@ -1,3 +1,4 @@
+/* Tensión descompensada */
 #include <stdio.h>
 
 int main() {

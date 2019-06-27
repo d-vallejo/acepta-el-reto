@@ -1,3 +1,4 @@
+/* Cuadrados con cerillas */
 #include <stdio.h>
 
 int main() {

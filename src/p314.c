@@ -1,3 +1,4 @@
+/* Temperaturas extremas */
 #include <stdio.h>
 #include <string.h>
 

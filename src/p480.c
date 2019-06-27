@@ -1,3 +1,4 @@
+/* ¿Cuántas pido? */
 #include <stdio.h>
 #include <math.h>
 

@@ -1,3 +1,4 @@
+/* Los problemas de ser rico */
 #include <stdio.h>
 
 int main() {

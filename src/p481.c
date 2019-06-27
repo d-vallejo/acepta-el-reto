@@ -1,3 +1,4 @@
+/* Ajedrez asistido por computador */
 #include <stdio.h>
 
 void main() {
