@@ -1,4 +1,4 @@
-/* Los calcetines de Ian Malcolm */
+/* Senda pirenaica */
 #include <stdio.h>
 
 int main() {
