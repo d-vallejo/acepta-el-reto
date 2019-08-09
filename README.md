@@ -16,11 +16,17 @@
 
 158 - [Los saltos de Mario](src/100-199/p158.c)
 
+160 - [Matrices triangulares](src/100-199/p160.c)
+
 164 - [Área de un rectángulo](src/100-199/p164.c)
+
+171 - [Abadías pirenáicas](src/100-199/p171.c)
 
 179 - [Molinos de viento](src/100-199/p179.c)
 
 191 - [Los problemas de ser rico](src/100-199/p191.c)
+
+216 - [Goteras](src/200-299/p216.c)
 
 217 - [¿Qué lado de la calle?](src/200-299/p217.c)
 
@@ -82,6 +88,8 @@
 
 397 - [¿Es múltiplo de 3?](src/300-399/p397.c)
 
+405 - [Imprimiendo páginas sueltas](src/400-499/p405.c)
+
 407 - [Rebotando en el parchís](src/400-499/p407.c)
 
 411 - [Sobre la tela de una araña](src/400-499/p411.c)
@@ -135,6 +143,8 @@
 512 - [Döner sospechoso](src/500-599/p512.c)
 
 515 - [Poniendo la mesa](src/500-599/p515.c)
+
+520 - [¿Dónde está la bolita?](src/500-599/p520.c)
 
 521 - [¿Podemos empezar?](src/500-599/p521.c)
 
