@@ -26,7 +26,7 @@
 
 219 - [La lotería de la peña Atlética](src/200-299/p219.c)
 
-245 - [Los Dalton]
+245 - [Los Dalton](src/200-299/p245.c)
 
 249 - [El burro y las alforjas](src/200-299/p249.c)
 
@@ -76,9 +76,7 @@
 
 376 - [Siete picos](src/300-399/p376.c)
 
-377 - [Cuadrados imperfectos]
-
-379 - [Creciente por los pelos]
+379 - [Creciente por los pelos](src/300-399/p379.c)
 
 380 - [¡Me caso!](src/300-399/p380.c)
 
@@ -114,7 +112,7 @@
 
 446 - [Abuelas falsas](src/400-499/p446.c)
 
-448 - [El mejor de dos dados]
+448 - [El mejor de dos dados](src/400-499/p448.c)
 
 456 - [Tarta Sacher](src/400-499/p456.c)
 
