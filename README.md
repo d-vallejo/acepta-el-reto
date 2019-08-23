@@ -1,5 +1,9 @@
 # acepta-el-reto
 
+112 - [Radares de tramo](src/100-199/p112.c)
+
+114 - [Último dígito del factorial](src/100-199/p114.c)
+
 116 - [¡Hola mundo!](src/100-199/p116.c)
 
 117 - [La fiesta aburrida](src/100-199/p117.c)
@@ -26,6 +30,8 @@
 
 191 - [Los problemas de ser rico](src/100-199/p191.c)
 
+195 - [Saltos de trampolín](src/100-199/p195.c)
+
 216 - [Goteras](src/200-299/p216.c)
 
 217 - [¿Qué lado de la calle?](src/200-299/p217.c)
@@ -45,6 +51,8 @@
 313 - [Fin de mes](src/300-399/p313.c)
 
 314 - [Temperaturas extremas](src/300-399/p314.c)
+
+321 - [Double decker](src/300-399/p321.c)
 
 337 - [La abuela María](src/300-399/p337.c)
 
