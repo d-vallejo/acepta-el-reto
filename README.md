@@ -10,6 +10,8 @@
 
 121 - [Chicles de regalo](src/100-199/p121.c)
 
+124 - [¿Cuántas me llevo?](src/100-199/p124.c)
+
 140 - [Suma de dígitos](src/100-199/p140.c)
 
 148 - [Nochevieja](src/100-199/p148.c)
@@ -37,6 +39,8 @@
 217 - [¿Qué lado de la calle?](src/200-299/p217.c)
 
 219 - [La lotería de la peña Atlética](src/200-299/p219.c)
+
+232 - [¡Feliz no cumpleaños!](src/200-299/p232.c)
 
 245 - [Los Dalton](src/200-299/p245.c)
 
@@ -134,6 +138,8 @@
 
 467 - [Polisílaba es polisílaba](src/400-499/p467.c)
 
+472 - [Caminando voy](src/400-499/p472.c)
+
 480 - [¿Cuántas pido?](src/400-499/p480.c)
 
 481 - [Ajedrez asistido por computador](src/400-499/p481.c)
@@ -149,6 +155,8 @@
 506 - [Tensión descompensada](src/500-599/p506.c)
 
 512 - [Döner sospechoso](src/500-599/p512.c)
+
+513 - [Empleado del año](src/500-599/p513.c)
 
 515 - [Poniendo la mesa](src/500-599/p515.c)
 
