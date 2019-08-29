@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 int main() {
-    int sol[2000], a, n, m;
+    int sol[5000], a, n, m;
     int i;
-    for(i = 0; i < 2000; i++)
+    for(i = 0; i < 5000; i++)
         if(i == 0)
             sol[i] = 1;
         else
