@@ -100,6 +100,8 @@
 
 380 - [¡Me caso!](src/300-399/p380.c)
 
+382 - [Internet en el metro](src/300-399/p382.c)
+
 397 - [¿Es múltiplo de 3?](src/300-399/p397.c)
 
 405 - [Imprimiendo páginas sueltas](src/400-499/p405.c)
