@@ -1,5 +1,7 @@
 # acepta-el-reto
 
+111 - [Aprobar química](src/100-199/p111.c)
+
 112 - [Radares de tramo](src/100-199/p112.c)
 
 114 - [Último dígito del factorial](src/100-199/p114.c)
@@ -22,6 +24,8 @@
 
 155 - [Perímetro de un rectángulo](src/100-199/p155.c)
 
+157 - [¿Cuantos días faltan?](src/100-199/p157.c)
+
 158 - [Los saltos de Mario](src/100-199/p158.c)
 
 160 - [Matrices triangulares](src/100-199/p160.c)
@@ -36,6 +40,8 @@
 
 195 - [Saltos de trampolín](src/100-199/p195.c)
 
+210 - [Primo de riesgo](src/200-299/p210.c)
+
 216 - [Goteras](src/200-299/p216.c)
 
 217 - [¿Qué lado de la calle?](src/200-299/p217.c)
@@ -47,6 +53,8 @@
 245 - [Los Dalton](src/200-299/p245.c)
 
 249 - [El burro y las alforjas](src/200-299/p249.c)
+
+265 - [Suma descendente](src/200-299/p265.c)
 
 272 - [Tres dedos en cada mano](src/200-299/p272.c)
 
@@ -89,6 +97,8 @@
 371 - [Aburrimiento en las sobremesas](src/300-399/p371.c)
 
 372 - [La farsante de Mary Poppins](src/300-399/p372.c)
+
+373 - [Cubos visibles](src/300-399/p373.c)
 
 374 - [Criogenización](src/300-399/p374.c)
 
@@ -139,6 +149,8 @@
 448 - [El mejor de dos dados](src/400-499/p448.c)
 
 456 - [Tarta Sacher](src/400-499/p456.c)
+
+460 - [Base raíz de 10](src/400-499/p460.c)
 
 467 - [Polisílaba es polisílaba](src/400-499/p467.c)
 
