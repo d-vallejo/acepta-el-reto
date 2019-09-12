@@ -142,7 +142,11 @@
 
 440 - [Escalando el Everest](src/400-499/p440.c)
 
+441 - [Contar hasta el final](src/400-499/p441.c)
+
 442 - [Camellos, serpientes y kebabs](src/400-499/p442.c)
+
+444 - [La digestión de las serpientes](src/400-499/p444.c)
 
 446 - [Abuelas falsas](src/400-499/p446.c)
 
