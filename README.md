@@ -24,6 +24,8 @@
 
 155 - [Perímetro de un rectángulo](src/100-199/p155.c)
 
+156 - [Ascensor](src/100-199/p156.c)
+
 157 - [¿Cuantos días faltan?](src/100-199/p157.c)
 
 158 - [Los saltos de Mario](src/100-199/p158.c)
@@ -31,6 +33,8 @@
 160 - [Matrices triangulares](src/100-199/p160.c)
 
 164 - [Área de un rectángulo](src/100-199/p164.c)
+
+165 - [Número hyperpar](src/100-199/p165.c)
 
 171 - [Abadías pirenáicas](src/100-199/p171.c)
 
@@ -112,7 +116,11 @@
 
 382 - [Internet en el metro](src/300-399/p382.c)
 
+390 - [Pixel Art](src/300-399/p390.c)
+
 397 - [¿Es múltiplo de 3?](src/300-399/p397.c)
+
+403 - [En campos de fútbol](src/400-499/p403.c)
 
 405 - [Imprimiendo páginas sueltas](src/400-499/p405.c)
 
