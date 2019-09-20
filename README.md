@@ -32,11 +32,17 @@
 
 160 - [Matrices triangulares](src/100-199/p160.c)
 
+161 - [Cálculo de la Mediana](src/100-199/p161.c)
+
 164 - [Área de un rectángulo](src/100-199/p164.c)
 
 165 - [Número hyperpar](src/100-199/p165.c)
 
+166 - [Zapping](src/100-199/p166.c)
+
 171 - [Abadías pirenáicas](src/100-199/p171.c)
+
+173 - [Partido de squash](src/100-199/p173.c)
 
 179 - [Molinos de viento](src/100-199/p179.c)
 
