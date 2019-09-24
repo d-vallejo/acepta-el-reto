@@ -60,6 +60,10 @@
 
 232 - [¡Feliz no cumpleaños!](src/200-299/p232.c)
 
+237 - [Números polidivisibles](src/200-299/p237.c)
+
+239 - [Pi. Pi. Pi. Pi. Pi. Piiiii](src/200-299/p239.c)
+
 245 - [Los Dalton](src/200-299/p245.c)
 
 249 - [El burro y las alforjas](src/200-299/p249.c)
@@ -77,6 +81,8 @@
 314 - [Temperaturas extremas](src/300-399/p314.c)
 
 321 - [Double decker](src/300-399/p321.c)
+
+335 - [Pirámide de canicas](src/300-399/p335.c)
 
 337 - [La abuela María](src/300-399/p337.c)
 
