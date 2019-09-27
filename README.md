@@ -22,6 +22,8 @@
 
 149 - [San Fermines](src/100-199/p149.c)
 
+153 - [Reloj a través del espejo](src/100-199/p153.c)
+
 155 - [Perímetro de un rectángulo](src/100-199/p155.c)
 
 156 - [Ascensor](src/100-199/p156.c)
@@ -45,6 +47,8 @@
 173 - [Partido de squash](src/100-199/p173.c)
 
 179 - [Molinos de viento](src/100-199/p179.c)
+
+190 - [Dividir factoriales](src/100-199/p190.c)
 
 191 - [Los problemas de ser rico](src/100-199/p191.c)
 
@@ -93,6 +97,8 @@
 355 - [Gregorio XIII](src/300-399/p355.c)
 
 356 - [Dólar Zimbabuense](src/300-399/p356.c)
+
+359 - [Timo en el cocedero de mariscos](src/300-399/p359.c)
 
 360 - [Rellenando el agua de la fuente](src/300-399/p360.c)
 
@@ -199,6 +205,8 @@
 513 - [Empleado del año](src/500-599/p513.c)
 
 515 - [Poniendo la mesa](src/500-599/p515.c)
+
+518 - [Asamblea General de Indiana](src/500-599/p518.c)
 
 520 - [¿Dónde está la bolita?](src/500-599/p520.c)
 
