@@ -56,11 +56,15 @@
 
 210 - [Primo de riesgo](src/200-299/p210.c)
 
+213 - [Abono de temporada](src/200-299/p213.c)
+
 216 - [Goteras](src/200-299/p216.c)
 
 217 - [¿Qué lado de la calle?](src/200-299/p217.c)
 
 219 - [La lotería de la peña Atlética](src/200-299/p219.c)
+
+221 - [Entrando al cine](src/200-299/p221.c)
 
 232 - [¡Feliz no cumpleaños!](src/200-299/p232.c)
 
@@ -211,5 +215,7 @@
 520 - [¿Dónde está la bolita?](src/500-599/p520.c)
 
 521 - [¿Podemos empezar?](src/500-599/p521.c)
+
+523 - [Aburrimiento en la autopista](src/500-599/p523.c)
 
 525 - [Multas desde el cielo](src/500-599/p525.c)
