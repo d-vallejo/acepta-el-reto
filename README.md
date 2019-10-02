@@ -66,6 +66,10 @@
 
 221 - [Entrando al cine](src/200-299/p221.c)
 
+222 - [Serie de potencias](src/200-299/p222.c)
+
+224 - [Los bocadillos de la hormiga reina](src/200-299/p224.c)
+
 232 - [¡Feliz no cumpleaños!](src/200-299/p232.c)
 
 237 - [Números polidivisibles](src/200-299/p237.c)
@@ -74,11 +78,17 @@
 
 245 - [Los Dalton](src/200-299/p245.c)
 
+247 - [Saliendo de la crisis](src/200-299/p247.c)
+
 249 - [El burro y las alforjas](src/200-299/p249.c)
 
 265 - [Suma descendente](src/200-299/p265.c)
 
+269 - [Entrenando para la vuelta ciclista](src/200-299/p269.c)
+
 272 - [Tres dedos en cada mano](src/200-299/p272.c)
+
+284 - [La tienda de la esquina](src/200-299/p284.c)
 
 293 - [Artrópodos](src/200-299/p293.c)
 
