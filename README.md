@@ -1,5 +1,7 @@
 # acepta-el-reto
 
+105 - [Ventas](src/100-199/p105.c)
+
 111 - [Aprobar química](src/100-199/p111.c)
 
 112 - [Radares de tramo](src/100-199/p112.c)
@@ -71,6 +73,8 @@
 224 - [Los bocadillos de la hormiga reina](src/200-299/p224.c)
 
 232 - [¡Feliz no cumpleaños!](src/200-299/p232.c)
+
+236 - [Los orígenes del ajedrez](src/200-299/p236.c)
 
 237 - [Números polidivisibles](src/200-299/p237.c)
 
@@ -147,6 +151,8 @@
 380 - [¡Me caso!](src/300-399/p380.c)
 
 382 - [Internet en el metro](src/300-399/p382.c)
+
+388 - [Colocando barcos](src/300-399/p388.c)
 
 390 - [Pixel Art](src/300-399/p390.c)
 
