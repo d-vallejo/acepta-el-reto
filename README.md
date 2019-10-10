@@ -44,6 +44,8 @@
 
 166 - [Zapping](src/100-199/p166.c)
 
+168 - [La pieza perdida](src/100-199/p168.c)
+
 171 - [Abadías pirenáicas](src/100-199/p171.c)
 
 173 - [Partido de squash](src/100-199/p173.c)
@@ -55,6 +57,8 @@
 191 - [Los problemas de ser rico](src/100-199/p191.c)
 
 195 - [Saltos de trampolín](src/100-199/p195.c)
+
+208 - [Tirando bolos](src/200-299/p208.c)
 
 210 - [Primo de riesgo](src/200-299/p210.c)
 
@@ -73,6 +77,8 @@
 224 - [Los bocadillos de la hormiga reina](src/200-299/p224.c)
 
 232 - [¡Feliz no cumpleaños!](src/200-299/p232.c)
+
+233 - [Menor número con la misma suma de dígitos](src/200-299/p233.c)
 
 236 - [Los orígenes del ajedrez](src/200-299/p236.c)
 
