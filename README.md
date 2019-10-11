@@ -2,6 +2,8 @@
 
 105 - [Ventas](src/100-199/p105.c)
 
+108 - [De nuevo en el bar de Javier](src/100-199/p108.c)
+
 111 - [Aprobar química](src/100-199/p111.c)
 
 112 - [Radares de tramo](src/100-199/p112.c)
@@ -12,6 +14,8 @@
 
 117 - [La fiesta aburrida](src/100-199/p117.c)
 
+119 - [Escudos del ejército romano](src/100-199/p119.c)
+
 121 - [Chicles de regalo](src/100-199/p121.c)
 
 124 - [¿Cuántas me llevo?](src/100-199/p124.c)
@@ -20,9 +24,13 @@
 
 140 - [Suma de dígitos](src/100-199/p140.c)
 
+141 - [Paréntesis balanceados](src/100-199/p141.c)
+
 148 - [Nochevieja](src/100-199/p148.c)
 
 149 - [San Fermines](src/100-199/p149.c)
+
+151 - [¿Es matriz identidad?](src/100-199/p151.c)
 
 153 - [Reloj a través del espejo](src/100-199/p153.c)
 
@@ -177,6 +185,8 @@
 426 - [Caramelos de reyes](src/400-499/p426.c)
 
 427 - [Yo soy tu...](src/400-499/p427.c)
+
+428 - [Tendencia al lado oscuro](src/400-499/p428.c)
 
 433 - [Racimos de uvas](src/400-499/p433.c)
 
