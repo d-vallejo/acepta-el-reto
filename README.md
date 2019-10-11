@@ -60,6 +60,8 @@
 
 179 - [Molinos de viento](src/100-199/p179.c)
 
+180 - [Triángulos](src/100-199/p180.c)
+
 190 - [Dividir factoriales](src/100-199/p190.c)
 
 191 - [Los problemas de ser rico](src/100-199/p191.c)
@@ -78,11 +80,15 @@
 
 219 - [La lotería de la peña Atlética](src/200-299/p219.c)
 
+220 - [¡Pasa la calculadora!](src/200-299/p220.c)
+
 221 - [Entrando al cine](src/200-299/p221.c)
 
 222 - [Serie de potencias](src/200-299/p222.c)
 
 224 - [Los bocadillos de la hormiga reina](src/200-299/p224.c)
+
+229 - [Cuentas paralelas](src/200-299/p229.c)
 
 232 - [¡Feliz no cumpleaños!](src/200-299/p232.c)
 
@@ -100,6 +106,8 @@
 
 249 - [El burro y las alforjas](src/200-299/p249.c)
 
+261 - [Voltea el dado](src/200-299/p261.c)
+
 265 - [Suma descendente](src/200-299/p265.c)
 
 269 - [Entrenando para la vuelta ciclista](src/200-299/p269.c)
@@ -111,6 +119,8 @@
 293 - [Artrópodos](src/200-299/p293.c)
 
 300 - [Palabras pentavocálicas](src/300-399/p300.c)
+
+309 - [Cálculo mental](src/300-399/p309.c)
 
 313 - [Fin de mes](src/300-399/p313.c)
 
