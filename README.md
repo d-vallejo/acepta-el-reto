@@ -94,6 +94,8 @@
 
 233 - [Menor número con la misma suma de dígitos](src/200-299/p233.c)
 
+234 - [Carreras de coches](src/200-299/p234.c)
+
 236 - [Los orígenes del ajedrez](src/200-299/p236.c)
 
 237 - [Números polidivisibles](src/200-299/p237.c)
@@ -135,6 +137,8 @@
 340 - [Cuadrados con cerillas](src/300-399/p340.c)
 
 344 - [Conectando cables](src/300-399/p344.c)
+
+347 - [Haciendo pajaritas de papel](src/300-399/p347.c)
 
 355 - [Gregorio XIII](src/300-399/p355.c)
 
@@ -182,6 +186,8 @@
 
 397 - [¿Es múltiplo de 3?](src/300-399/p397.c)
 
+399 - [Las perlas de la condesa](src/300-399/p399.c)
+
 403 - [En campos de fútbol](src/400-499/p403.c)
 
 405 - [Imprimiendo páginas sueltas](src/400-499/p405.c)
@@ -191,6 +197,8 @@
 411 - [Sobre la tela de una araña](src/400-499/p411.c)
 
 413 - [Claras y oscuras](src/400-499/p413.c)
+
+424 - [Ahorro infantil](src/400-499/p424.c)
 
 426 - [Caramelos de reyes](src/400-499/p426.c)
 
