@@ -188,6 +188,8 @@
 
 399 - [Las perlas de la condesa](src/300-399/p399.c)
 
+402 - [Las dimensiones del puzzle](src/400-499/p402.c)
+
 403 - [En campos de fútbol](src/400-499/p403.c)
 
 405 - [Imprimiendo páginas sueltas](src/400-499/p405.c)
@@ -197,6 +199,10 @@
 411 - [Sobre la tela de una araña](src/400-499/p411.c)
 
 413 - [Claras y oscuras](src/400-499/p413.c)
+
+419 - [Telesillas](src/400-499/p419.c)
+
+420 - [El secreto de la bolsa](src/400-499/p420.c)
 
 424 - [Ahorro infantil](src/400-499/p424.c)
 
@@ -245,6 +251,8 @@
 481 - [Ajedrez asistido por computador](src/400-499/p481.c)
 
 482 - [Los calcetines de Ian Malcolm](src/400-499/p482.c)
+
+484 - [El incidente de Dhahran](src/400-499/p484.c)
 
 485 - [Senda pirenaica](src/400-499/p485.c)
 
