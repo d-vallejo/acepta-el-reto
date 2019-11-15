@@ -112,6 +112,8 @@
 
 265 - [Suma descendente](src/200-299/p265.c)
 
+267 - [Postes para un cercado](src/200-299/p267.c)
+
 269 - [Entrenando para la vuelta ciclista](src/200-299/p269.c)
 
 272 - [Tres dedos en cada mano](src/200-299/p272.c)
@@ -245,6 +247,8 @@
 467 - [Polisílaba es polisílaba](src/400-499/p467.c)
 
 472 - [Caminando voy](src/400-499/p472.c)
+
+477 - [A la captura del Doctor Muerte](src/400-499/p477.c)
 
 480 - [¿Cuántas pido?](src/400-499/p480.c)
 
