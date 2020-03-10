@@ -281,3 +281,19 @@
 523 - [Aburrimiento en la autopista](src/500-599/p523.c)
 
 525 - [Multas desde el cielo](src/500-599/p525.c)
+
+532 - [Reduciendo envases](src/500-599/p532.c)
+
+533 - [La botella ganadora](src/500-599/p533.c)
+
+538 - [Toesto era campo](src/500-599/p538.c)
+
+539 - [¡Feliz década nueva?](src/500-599/p539.c)
+
+540 - [Por el hueco de la escalera](src/500-599/p540.c)
+
+541 - [IIII](src/500-599/p541.c)
+
+542 - [La tía Manuela](src/500-599/p542.c)
+
+545 - [Ahorrando fuerzas](src/500-599/p545.c)
