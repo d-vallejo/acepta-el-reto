@@ -298,4 +298,6 @@
 
 545 - [Ahorrando fuerzas](src/500-599/p545.c)
 
+587 - [Gorros de colores](src/500-599/p587.c)
+
 595 - [¿En qué volumen?](src/500-599/p595.c)
