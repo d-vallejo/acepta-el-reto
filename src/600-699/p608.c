@@ -1,3 +1,4 @@
+/* Peligro por hielo */
 #include <stdio.h>
 
 int main() {

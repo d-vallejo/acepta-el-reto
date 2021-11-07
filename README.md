@@ -301,3 +301,5 @@
 587 - [Gorros de colores](src/500-599/p587.c)
 
 595 - [¿En qué volumen?](src/500-599/p595.c)
+
+608 - [Peligro por hielo](src/600-699/p608.c)
