@@ -302,4 +302,6 @@
 
 595 - [¿En qué volumen?](src/500-599/p595.c)
 
+605 - [Ordenando el armario](src/600-699/p605.c)
+
 608 - [Peligro por hielo](src/600-699/p608.c)
