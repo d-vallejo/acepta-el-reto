@@ -304,4 +304,6 @@
 
 605 - [Ordenando el armario](src/600-699/p605.c)
 
+607 - [Minimizando el castigo](src/600-699/p607.c)
+
 608 - [Peligro por hielo](src/600-699/p608.c)
