@@ -62,6 +62,8 @@
 
 180 - [Triángulos](src/100-199/p180.c)
 
+186 - [Y el ganador es...](src/100-199/p186.c)
+
 190 - [Dividir factoriales](src/100-199/p190.c)
 
 191 - [Los problemas de ser rico](src/100-199/p191.c)
