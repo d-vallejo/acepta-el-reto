@@ -302,6 +302,8 @@
 
 584 - [Duración de bombillas LED](src/500-599/p584.c)
 
+586 - [Colección de calendarios de bolsillo](src/500-599/p586.c)
+
 587 - [Gorros de colores](src/500-599/p587.c)
 
 595 - [¿En qué volumen?](src/500-599/p595.c)
