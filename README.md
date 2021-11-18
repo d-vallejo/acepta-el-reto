@@ -300,6 +300,8 @@
 
 545 - [Ahorrando fuerzas](src/500-599/p545.c)
 
+572 - [Salvados por el 9](src/500-599/p572.c)
+
 584 - [Duración de bombillas LED](src/500-599/p584.c)
 
 586 - [Colección de calendarios de bolsillo](src/500-599/p586.c)
