@@ -308,6 +308,8 @@
 
 587 - [Gorros de colores](src/500-599/p587.c)
 
+589 - [Igualando copas](src/500-599/p589.c)
+
 595 - [¿En qué volumen?](src/500-599/p595.c)
 
 605 - [Ordenando el armario](src/600-699/p605.c)
