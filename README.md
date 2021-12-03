@@ -312,6 +312,8 @@
 
 595 - [¿En qué volumen?](src/500-599/p595.c)
 
+602 - [¿Cuándo seré rico?](src/600-699/p602.c)
+
 605 - [Ordenando el armario](src/600-699/p605.c)
 
 607 - [Minimizando el castigo](src/600-699/p607.c)
