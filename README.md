@@ -319,3 +319,5 @@
 607 - [Minimizando el castigo](src/600-699/p607.c)
 
 608 - [Peligro por hielo](src/600-699/p608.c)
+
+608 - [La otra página](src/600-699/p621.c)
