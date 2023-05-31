@@ -321,3 +321,5 @@
 608 - [Peligro por hielo](src/600-699/p608.c)
 
 621 - [La otra página](src/600-699/p621.c)
+
+634 - [Bandurria Hero](src/600-699/p634.c)
