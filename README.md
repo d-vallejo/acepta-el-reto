@@ -322,4 +322,6 @@
 
 621 - [La otra página](src/600-699/p621.c)
 
+624 - [Doblando calcetines](src/600-699/p624.c)
+
 634 - [Bandurria Hero](src/600-699/p634.c)
