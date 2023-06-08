@@ -1,4 +1,3 @@
-/* Ordenando el armario */
 #include <stdio.h>
 #include <string.h>
 
