@@ -1,4 +1,3 @@
-/* ¿Cuándo seré rico? */
 #include <stdio.h>
 
 int a[31];
