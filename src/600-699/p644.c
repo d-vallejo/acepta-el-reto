@@ -1,4 +1,3 @@
-/* Computus Algoritmicus */
 #include <stdio.h>
 
 int main() {
