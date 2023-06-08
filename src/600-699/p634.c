@@ -1,4 +1,3 @@
-/* Bandurria Hero */
 #include <stdio.h>
 
 int main() {
