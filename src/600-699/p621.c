@@ -1,4 +1,3 @@
-/* La otra página */
 #include <stdio.h>
 
 int main() {
