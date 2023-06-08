@@ -327,3 +327,5 @@
 634 - [Bandurria Hero](src/600-699/p634.c)
 
 644 - [Computus Algoritmicus](src/600-699/p644.c)
+
+682 - [Metidos en un cajón](src/600-699/p682.c)
