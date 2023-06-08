@@ -1,4 +1,3 @@
-/* Minimizando el castigo */
 #include <stdio.h>
 
 int copiar(int copias, int n, int res) {
