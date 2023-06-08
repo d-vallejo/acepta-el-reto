@@ -1,4 +1,3 @@
-/* Doblando calcetines */
 #include <stdio.h>
 
 int main() {
