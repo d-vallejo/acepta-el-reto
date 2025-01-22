@@ -328,4 +328,6 @@
 
 644 - [Computus Algoritmicus](src/600-699/p644.c)
 
+663 - [Contando desde el cero](src/600-699/p663.c)
+
 682 - [Metidos en un cajón](src/600-699/p682.c)
